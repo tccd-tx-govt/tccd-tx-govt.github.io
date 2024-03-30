@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/brock/data/z/tccd/tccd-tx-govt/textbook/tccd-tx-govt",
+	"sourceRoot": "/home/brock/data/z/tccd/tmp/quickstart",
 	"sources": [
 		"ananke/css/main.css"
 	],
