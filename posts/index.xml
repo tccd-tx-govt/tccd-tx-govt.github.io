@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Texas Government</title>
+    <link>https://tccd-tx-govt.github.io/posts/</link>
+    <description>Recent content in Posts on Texas Government</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2024 09:39:13 -0400</lastBuildDate>
+    <atom:link href="https://tccd-tx-govt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M4 Voting</title>
+      <link>https://tccd-tx-govt.github.io/posts/m4-voting/</link>
+      <pubDate>Sat, 30 Mar 2024 09:39:13 -0400</pubDate>
+      <guid>https://tccd-tx-govt.github.io/posts/m4-voting/</guid>
+      <description>Voting and Political Participation in Texas Introduction: Voting and Political Participation in a Changing Texas Figure 7.1 This 1898 General Land Office map of Fort Bend County shows land grants that date back to those secured from Spain by Stephen F. Austin. Many of the original bounderies are still in place today. Image Credit: Andrew Teas, License: CC BY&#xA;Fort Bend County covers an area along the Brazos River southwest of Houston.</description>
+    </item>
+  </channel>
+</rss>
