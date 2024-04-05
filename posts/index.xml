@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Texas Government</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://tccd-tx-govt.github.io/posts/</link>
     <description>Recent content in Posts on Texas Government</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Apr 2024 12:20:51 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tccd-tx-govt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>M9 Legislature</title>
-      <link>http://localhost:1313/posts/m9-legislature/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m9-legislature/</link>
       <pubDate>Fri, 05 Apr 2024 12:20:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m9-legislature/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m9-legislature/</guid>
       <description>The Texas Legislature Introduction: The Texas Legislature Chapter Learning Objective By the end of this chapter, you will be able to:&#xA;Outline the function, structure, and responsibilities of the Texas legislature Introduction This chapter examines the Texas State Legislature&amp;ndash;the lawmaking branch of Texas government.&#xA;The Texas State Capitol Figure 3.1 The Texas State Capitol is the capitol building and seat of government of the American state of Texas. Located in downtown Austin, Texas, the structure houses the offices and chambers of the Texas Legislature.</description>
     </item>
     <item>
       <title>M8 Courts</title>
-      <link>http://localhost:1313/posts/m8-courts/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m8-courts/</link>
       <pubDate>Fri, 05 Apr 2024 12:19:59 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m8-courts/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m8-courts/</guid>
       <description>The Court System of Texas Introduction: The Texas Court System Learning Objective By the end of this chapter, you will be able to:&#xA;Explain the structure and function of the judicial branch of the Texas government Introduction How much does a bar or restaurant have to do to protect customers from harm, especially harm resulting in part from their own actions?&#xA;In 2007, the Del Lago Resort, an upscale golf resort north of Houston, booked a wedding reception alongside the second night of a three-day college fraternity reunion.</description>
     </item>
     <item>
       <title>Module 7 The Executive Branch</title>
-      <link>http://localhost:1313/posts/m7-executive/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m7-executive/</link>
       <pubDate>Wed, 03 Apr 2024 10:14:27 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m7-executive/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m7-executive/</guid>
       <description>The Executive Department and the Office of the Governor of Texas Introduction: Texas&amp;rsquo; Governor and Executive Branch Overview&#xA;Introduction: Texas&amp;rsquo; Governor and Executive Branch Learning Objective&#xA;By the end of this chapter, you will be able to:&#xA;Explain the structure and function of the executive branch of the Texas government Introduction&#xA;In its 2019 session, the Texas Legislature failed to pass a “Sunset” bill that would have continued the existence of the Texas State Board of Plumbing Examiners.</description>
     </item>
     <item>
       <title>Module 6 Interest Groups</title>
-      <link>http://localhost:1313/posts/m6-intrest-groups/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m6-intrest-groups/</link>
       <pubDate>Wed, 03 Apr 2024 10:14:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m6-intrest-groups/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m6-intrest-groups/</guid>
       <description>Introduction: Interest Groups and Lobbying in Texas Overview&#xA;Chapter Learning Objective By the end of this chapter, you will be able to:&#xA;Evaluate the role played by interest groups in Texas Introduction: Lobbyists are Important for Democracy &amp;ldquo;Say you’re passionate about finding a cure for Parkinson’s disease. You can try to be a lone voice in the wilderness, but chances are there’s a lobbying organization that can bolster your argument with research and facts, and the ability to get that info to people who make the decisions.</description>
     </item>
     <item>
       <title>Module 4 Voting</title>
-      <link>http://localhost:1313/posts/m4-voting/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m4-voting/</link>
       <pubDate>Sat, 30 Mar 2024 13:50:28 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m4-voting/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m4-voting/</guid>
       <description>Voting and Political Participation in Texas Introduction: Voting and Political Participation in a Changing Texas Figure 7.1 This 1898 General Land Office map of Fort Bend County shows land grants that date back to those secured from Spain by Stephen F. Austin. Many of the original bounderies are still in place today. Image Credit: Andrew Teas, License: CC BY&#xA;Fort Bend County covers an area along the Brazos River southwest of Houston.</description>
     </item>
     <item>
       <title>Module 5 Political Parties</title>
-      <link>http://localhost:1313/posts/m5-parties/</link>
+      <link>https://tccd-tx-govt.github.io/posts/m5-parties/</link>
       <pubDate>Sat, 30 Mar 2024 13:42:01 -0400</pubDate>
-      <guid>http://localhost:1313/posts/m5-parties/</guid>
+      <guid>https://tccd-tx-govt.github.io/posts/m5-parties/</guid>
       <description>Unit 5 Political Parties in Texas Introduction: Political Parties in Texas Chapter Learning Objective By the end of this chapter, you will be able to:&#xA;Evaluate the role played by political parties in Texas Introduction At some point, most of us have found ourselves part of a group trying to solve a problem, like picking a restaurant or movie to attend or completing a big project at school or work. Members of the group probably had various opinions about what should be done.</description>
     </item>
   </channel>
