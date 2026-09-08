@@ -644,7 +644,7 @@ The Criminal Justice System in Texas: Glossary. Authored by: panOpen. License: C
 
 ## Assessment
 
-Check your knowledge of this Chapter by taking the optional ungraded practice quiz linked below.
+Check your knowledge of this Chapter by taking the optional ungraded practice quiz at the link below.
 
 [Ungraded opional practice Chapter Quiz](https://docs.google.com/forms/d/1ZJioejrJ-J5aWwc2Ei8RwUUlsDaxSE7qbkC8UlQVRok/edit?usp=sharing)
 
