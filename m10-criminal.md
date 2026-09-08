@@ -305,7 +305,7 @@ Lawmakers entered 2019 with hopes that they could change Texas' bail procedures,
 
 ### Check Your Knowledge
 
-Check your knowledge of this section by taking the ungraded practice quiz linked below.
+Check your knowledge of this section by taking the ungraded practice quiz at the link below.
 
 [Ungraded practice Quiz](https://docs.google.com/forms/d/1RI8xsEQAjA1FeyUEuedHGFEIszeehWTba0TCuUXB9hU/edit?usp=sharing)
 
